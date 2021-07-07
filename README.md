@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-박성준의 홈페이지!
+[박성준](my-intro.md)의 홈페이지
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
